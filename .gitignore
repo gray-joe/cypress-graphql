@@ -1,1 +1,7 @@
 /node_modules/
+
+/cypress/results/
+/cypress/screenshots/
+/cypress/videos/
+/mochawesome-report/
+mochawesome.json
